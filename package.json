@@ -19,5 +19,14 @@
   "dependencies": {
     "bluebird": "^3.4.6",
     "request": "^2.79.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imochen/c2e.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imochen/c2e/issues"
+  },
+  "homepage": "https://github.com/imochen/c2e#readme"
 }
